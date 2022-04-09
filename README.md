@@ -3,7 +3,7 @@ Personal Planner was created by Ivana and Kriss while students in the Generation
 It stores a list of tasks in browser local storage. \
 \
 Personal Planner does not use a framework or library such as Angular or React to update the DOM. \
-Instead ,the Personal Planner displays tasks by creating cards from a template literal (or template string) which contains card HTML.  \
+Instead, the Personal Planner displays tasks by creating cards from a template literal (or template string) which contains card HTML.  \
 The string is interpolated with data from each task. \
 The card DIV has a class attribute with the value "card" in order to be styled with Bootstrap, and it is appended to the document body. \
 \
